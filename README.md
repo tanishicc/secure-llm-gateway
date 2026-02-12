@@ -1,4 +1,4 @@
-# Secure LLM Gateway (Enterprise-Ready MVP)
+# Secure LLM Gateway 
 
 A security middleware API that sits in front of an LLM provider (e.g., OpenAI) and enforces:
 - Prompt injection detection
