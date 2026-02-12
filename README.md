@@ -1,4 +1,4 @@
-#  Secure LLM Gateway (Enterprise AI Security Layer)
+#  Secure LLM Gateway (AI Security Layer)
 
 An enterprise-ready security middleware that protects Large Language Model (LLM) applications from prompt injection, data exfiltration, abuse, and insecure logging.
 
